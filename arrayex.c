@@ -18,10 +18,6 @@ void main(){
 		avg[i]=runs[i]/matches[i];
 	}
 	printf("enter avg is ");
-	for(i=0;i<5;i++){
-		
-		printf("%d \n",avg[i]);
-	
-	}
+
 	
 }
